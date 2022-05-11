@@ -1,4 +1,4 @@
-Hey, my name is Nedas.
-I'm from Lithuania
-Currently 16 years old as of May 11th
+Hey, my name is Nedas. \n
+I'm from Lithuania \n
+Currently 16 years old as of May 11th \n
 Learning Python
